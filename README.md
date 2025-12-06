@@ -1,4 +1,4 @@
-# 🎨 ReifyFlow Studio
+# ReifyFlow Studio
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status: Preview](https://img.shields.io/badge/Status-Preview-orange.svg)]()
@@ -76,4 +76,4 @@ We welcome contributions to the UI/UX design!
 *   **Design System**: Based on VS Code Webview UI Toolkit.
 
 ---
-*Part of the ReifyFlow Ecosystem.*
+*Part of the ReifyFlow.*
